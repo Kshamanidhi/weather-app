@@ -19,7 +19,7 @@ body {
   border-radius: 30px;
   width: 100%;
   max-width: 420px;
-  margin: 1em;
+  margin: 6em;
 }
 
 .card-small {
@@ -137,7 +137,7 @@ h1.city {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 4%;
+  margin-top: 0%;
 }
 
 .future-forecast .today{
